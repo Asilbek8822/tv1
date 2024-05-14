@@ -1,0 +1,263 @@
+.container{
+    background-color: rgb(152, 152, 152);
+    width: 1370px;
+    height: 70px;
+    margin-top: -10px;
+    margin-left: -10px;    
+}
+.a2{
+    margin-left: 1150px;
+    margin-top: -50px;
+    width: 50px;
+    height: 35px;
+    position: absolute;
+    color: rgb(2, 247, 2);
+    background-color: green;
+    border-radius: 2px;
+}
+.asil{
+    margin-top: -50px;
+    position: absolute;
+  color:whitesmoke;
+    margin-top: -60px;
+    text-decoration: none;
+    cursor: pointer;
+   
+}
+.as{
+    color: black;
+    margin-left: 220px;
+    margin-top: -45px;
+    text-decoration: none;
+    position: absolute;
+    cursor: pointer;
+}
+.as:hover{
+    color: aliceblue;
+}
+.asilb{
+    color:black;
+    margin-left: 300px;
+    margin-top: -45px;
+    text-decoration: none;
+    position: absolute;
+    cursor: pointer;
+}
+.asilb:hover{
+    color: aliceblue;
+}
+.asilbe{
+    color: black;
+    margin-left: 400px;
+    margin-top: -45px;
+    position: absolute;
+    cursor: pointer;
+}
+.asilbe:hover{
+    color: aliceblue;
+}
+.asilbek{
+    color: black;
+    margin-left: 500px;
+    margin-top: -45px;
+    cursor: pointer;
+}
+.asilbek:hover{
+    color: aliceblue;
+}
+.asilcha{
+    color: black;
+    margin-left: 600px;
+    margin-top: -35px;
+    cursor: pointer;
+}
+.asilcha:hover{
+    color: aliceblue;
+}
+.asilbeks{
+    color: black;
+    margin-left: 750px;
+    cursor: pointer;
+    margin-top: -35px;
+}
+.asilbeks:hover{
+    color: aliceblue;
+}
+.asilbeh{
+    color: black;
+    margin-left: 850px;
+    margin-top: -35px;
+    cursor: pointer;
+}
+.asilbeh:hover{
+    color: aliceblue;
+}
+.text{
+    margin-left: 950px;
+    margin-top: -50px;
+    width: 150px;
+    height: 30px;
+    position: absolute;
+}
+.div{
+    margin-top: 20px;
+    background-color: rgb(77, 242, 198);
+    width: 250px;
+    height: 580px;
+    margin-top: 25px;
+    margin-left: -10px;
+}
+.div1{
+    color: rgb(113, 113, 244);
+    margin-top: -500px;
+    margin-left: 50px;
+    cursor: pointer;
+}
+.text2{
+    color: rgb(113, 113, 244);
+    margin-left: 50px;
+    cursor: pointer;
+}
+.text1{
+    color: brown;
+    text-decoration: none;
+    font-size: 30px;
+    margin-left: 50px;
+    cursor: pointer;
+}
+table{
+    margin-top: -350px;
+    width: 1000px;
+    position: absolute;
+    height: 250px;
+    text-align: center;
+    margin-left: 270px;
+}
+.text8{
+    background-color: rgb(50, 252, 5);
+    color: aliceblue;
+}
+.text9{
+    background-color: darkgrey;
+    color: aliceblue;
+}
+.text11{
+    background-color: brown;
+    color: #000;
+}
+.text10{
+    background-color: green;
+    color: #000;
+}
+.text3{
+    background-color: rgb(53, 51, 51);
+    width: 1370px;
+    height: 160px;
+    margin-top: 100px;
+    margin-left: -10px;
+}
+.text4{
+    margin-top: -110px;
+    position: absolute;
+    color: aqua;
+    margin-left: 50px;
+}
+.text6{
+    margin-top: -90px;
+    position: absolute;
+    color: aqua;
+    margin-left: 50px;
+}
+.text7{
+    margin-top: -70px;
+    position: absolute;
+    color: aqua;
+    margin-left: 50px;
+}
+.text5{
+    margin-left: 500px;
+    margin-top: -100px;
+    position: absolute;
+    color: aqua;
+}
+.div3{
+    background-color: aqua;
+    border-radius: 20px;
+    width: 200px;
+    height: 40px;
+    margin-left: 1100px;
+    margin-top: -50px;
+}
+.div4{
+    margin-left: 1180px;
+    margin-top: -30px;
+    color: aliceblue;
+}
+.text78{
+    width: 20px;
+    height: 20px;
+    margin-top: -100px;
+    margin-left: -250px;
+    position: absolute;
+}
+.text79{
+    width: 20px;
+    height: 20px;
+    margin-top: -100px;
+    margin-left: -230px;
+    position: absolute;
+}
+.text80{
+    width: 20px;
+    height: 20px;
+    margin-top: -100px;
+    margin-left: -210px;
+    position: absolute;
+}
+.text81{
+    width: 20px;
+    height: 20px;
+    margin-top: -100px;
+    margin-left: -190px;
+    position: absolute;
+}
+.text82{
+    width: 20px;
+    height: 20px;
+    margin-top: -100px;
+    margin-left: -170px;
+    position: absolute;
+}
+.text83{
+    margin-left: 300px;
+}
+.text74{
+    color: #000;
+    margin-top: -200px;
+}
+.box{
+    margin-left: -900px;
+    margin-top: -400px;
+    position: absolute;
+    color: #000;
+}
+.div1:hover{
+    color: red;
+}
+.text1:hover{
+    color: red;
+}
+.text2:hover{
+    color: red;
+}
+.asil:hover{
+    color: red;
+}
+.as::after{
+    color: #000;
+}
+.a1{
+    margin-left: 300px;
+    margin-top: -500px;
+    color: #000;
+}
